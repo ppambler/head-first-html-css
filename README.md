@@ -132,3 +132,4 @@ ps：从最基本的意义来说，一个“活动（Activity）”就是对一�
 
 **➹：**[W3C发布活动流、活动词汇表 基于JSON格式描述社交网络活动 - W3C中国](http://www.chinaw3c.org/archives/782/)
 
+ps：是前端请求然后后台传了一个JSON数据过来吗？
